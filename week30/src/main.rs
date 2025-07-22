@@ -51,25 +51,46 @@
 
 
 
-// Lifetimes
+// // Lifetimes
 
-fn main() {
-    let str1= String::from("sada");
-    let ans;
-    {
-        let str2 = String::from("shiva");
-        ans = longest_str(&str1, &str2);
-        println!("{}", ans);
+// fn main() {
+//     let str1= String::from("sada");
+//     let ans;
+//     {
+//         let str2 = String::from("shiva");
+//         ans = longest_str(&str1, &str2);
+//         println!("{}", ans);
         
-    }
+//     }
 
-    //println!("{}", ans);
+//     //println!("{}", ans);
+// }
+
+// fn longest_str<'a>(s1: &'a String, s2: &'a String) -> &'a String {
+//     if s1.len() > s2.len() {
+//         return  s1;
+//     } else {
+//         return s2;
+//     }
+// }
+
+
+
+// Lifetimes in struct
+
+struct User<'a> {
+    username: &'a str,
+    password: &'a str,
 }
 
-fn longest_str<'a>(s1: &'a String, s2: &'a String) -> &'a String {
-    if s1.len() > s2.len() {
-        return  s1;
-    } else {
-        return s2;
-    }
+fn main() {
+    let name = String::from("Sada");
+    let password = String::from("123");
+
+    let user1 = User {
+        username: &name,
+        password: &password,
+    };
+
+    println!("{}, {}", user1.username, user1.password);
 }
