@@ -1,0 +1,10 @@
+/d/Code/Harkirath Cohart 3.0/Rust/rust-cohort/week31/target/debug/deps/libversion_check-284e8375b5dd3310.rmeta: /home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/lib.rs /home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/version.rs /home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/channel.rs /home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/date.rs
+
+/d/Code/Harkirath Cohart 3.0/Rust/rust-cohort/week31/target/debug/deps/libversion_check-284e8375b5dd3310.rlib: /home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/lib.rs /home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/version.rs /home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/channel.rs /home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/date.rs
+
+/d/Code/Harkirath Cohart 3.0/Rust/rust-cohort/week31/target/debug/deps/version_check-284e8375b5dd3310.d: /home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/lib.rs /home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/version.rs /home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/channel.rs /home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/date.rs
+
+/home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/lib.rs:
+/home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/version.rs:
+/home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/channel.rs:
+/home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/date.rs:

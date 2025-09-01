@@ -1,0 +1,10 @@
+/d/Code/Harkirath Cohart 3.0/Rust/rust-cohort/week31/target/debug/deps/libpkcs8-2a24b1b7d49dc2af.rmeta: /home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pkcs8-0.10.2/src/lib.rs /home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pkcs8-0.10.2/src/error.rs /home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pkcs8-0.10.2/src/private_key_info.rs /home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pkcs8-0.10.2/src/traits.rs /home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pkcs8-0.10.2/src/version.rs /home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pkcs8-0.10.2/src/../README.md
+
+/d/Code/Harkirath Cohart 3.0/Rust/rust-cohort/week31/target/debug/deps/pkcs8-2a24b1b7d49dc2af.d: /home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pkcs8-0.10.2/src/lib.rs /home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pkcs8-0.10.2/src/error.rs /home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pkcs8-0.10.2/src/private_key_info.rs /home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pkcs8-0.10.2/src/traits.rs /home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pkcs8-0.10.2/src/version.rs /home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pkcs8-0.10.2/src/../README.md
+
+/home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pkcs8-0.10.2/src/lib.rs:
+/home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pkcs8-0.10.2/src/error.rs:
+/home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pkcs8-0.10.2/src/private_key_info.rs:
+/home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pkcs8-0.10.2/src/traits.rs:
+/home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pkcs8-0.10.2/src/version.rs:
+/home/sadashivamurthy-s-p/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pkcs8-0.10.2/src/../README.md:
