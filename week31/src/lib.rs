@@ -21,7 +21,7 @@ struct Counter {
 entrypoint!(counter_program);
 
 pub fn counter_program(
-    program_id: &Pubkey,
+    program_id: &Pubkey,cargo
     accounts: &[AccountInfo],
     instruction_data: &[u8]
 ) -> ProgramResult {
